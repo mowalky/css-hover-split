@@ -1,0 +1,10 @@
+:root {
+  --background: liner-gradient(to right, #02001f, #1f1b4e);
+  --text-color: #ff2c75;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text-color);
+}
